@@ -1,7 +1,7 @@
 import { CVData } from "../../types/CVTypes"
 
 export const CVObject: CVData = {
-    photo: 'https://placehold.co/400x400?text=TG',
+    photo: 'https://placehold.co/200x200?text=TG',
     name: 'Tomasz',
     lastName: 'Gołąb',
     position: 'Regular Frontend Developer',

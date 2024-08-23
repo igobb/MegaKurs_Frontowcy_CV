@@ -1,0 +1,54 @@
+.wrapper {
+    display: flex;
+    background-color: rgb(244, 254, 254);
+    border-radius: 15px;
+    border: 3px solid rgb(214, 255, 255);
+
+    .half-left, .half-right {
+        padding: 1em;
+    }
+
+    .half-right {
+        width: 40%;
+        background-color: rgb(233, 253, 253);
+    }
+
+    h2 {
+        font-size: 1.2em;
+        font-weight: 600;
+        margin-bottom: 1em
+    }
+
+    h3 {
+        font-size: 0.9em;
+        font-weight: 600;
+        margin: 1em 0;
+    }
+
+    &__header {
+        font-size: 1.5em;
+        font-weight: 600;
+    }
+
+    &__img {
+        margin-top: 1em;
+        border: 2px solid rgb(214, 255, 255);
+        border-radius: 5px;
+    }
+
+    .small {
+        font-size: 0.7em;
+        padding: 1em 0;
+    }
+
+    .big {
+        font-size: 1.1em;
+        font-weight: 600;
+        font-style: italic;
+        margin: 0.5em 0;
+    }
+
+    .gray {
+        color: gray
+    }
+}

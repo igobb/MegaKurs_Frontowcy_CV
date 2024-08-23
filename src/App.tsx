@@ -1,4 +1,4 @@
-import './App.css'
+import './App.scss'
 import { MyCV } from './components/MyCV/MyCV'
 
 function App() {
