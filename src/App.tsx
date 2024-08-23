@@ -1,12 +1,9 @@
 import './App.css'
+import { MyCV } from './components/MyCV/MyCV'
 
 function App() {
 
-  return (
-    <>
-      
-    </>
-  )
+  return <MyCV />
 }
 
 export default App
