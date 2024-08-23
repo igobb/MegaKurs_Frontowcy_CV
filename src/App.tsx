@@ -1,5 +1,5 @@
 import './App.scss'
-import { MyCV } from './components/MyCV/MyCV'
+import { MyCV } from './components/MyCV'
 
 function App() {
 
